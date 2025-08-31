@@ -64,10 +64,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Sushant-Prasad/PrepMate-MERN" title="PrepMate">
-    <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=PrepMate-MERN&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=PrepMate-MERN&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
   </a>
   <a align="right" href="https://github.com/Sushant-Prasad/DATA-STRUCTURE-AND-ALGORITHM" title="Data Structures">
-    <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=DATA-STRUCTURE-AND-ALGORITHM&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=DATA-STRUCTURE-AND-ALGORITHM&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
   </a>
 </div>
 
@@ -75,10 +75,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Sushant-Prasad/FlexiSpot" title="FlexiSpot">
-    <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=FlexiSpot&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=FlexiSpot&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
   </a>
   <a align="right" href="https://github.com/Sushant-Prasad/DonateDelight" title="DonateDelight">
-    <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=DonateDelight&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=DonateDelight&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
   </a>
 </div>
 
@@ -86,12 +86,11 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Sushant-Prasad/TODO" title="TODO App">
-    <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=TODO&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=TODO&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
   </a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
-
 
 ## 🌐 Connect with Me
 <p align="center">
