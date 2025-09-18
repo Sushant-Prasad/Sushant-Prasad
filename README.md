@@ -53,8 +53,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sushant-Prasad&theme=tokyonight" alt="streak" />
- 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sushant-Prasad&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Prasad&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
