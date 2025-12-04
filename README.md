@@ -49,46 +49,6 @@
 
 ---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Prasad&layout=compact&theme=tokyonight&cache_seconds=7200" alt="Top languages" />
-</p>
-
----
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-
-<div align="center">
-  <a href="https://github.com/Sushant-Prasad/PrepMate-MERN" title="PrepMate">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=PrepMate-MERN&theme=react&border_color=61dafb&border_radius=10&cache_seconds=7200" />
-  </a>
-  <a href="https://github.com/Sushant-Prasad/DATA-STRUCTURE-AND-ALGORITHM" title="Data Structures">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=DATA-STRUCTURE-AND-ALGORITHM&theme=react&border_color=61dafb&border_radius=10&cache_seconds=7200" />
-  </a>
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <a href="https://github.com/Sushant-Prasad/FlexiSpot" title="FlexiSpot">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=FlexiSpot&theme=react&border_color=61dafb&border_radius=10&cache_seconds=7200" />
-  </a>
-  <a href="https://github.com/Sushant-Prasad/DonateDelight" title="DonateDelight">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=DonateDelight&theme=react&border_color=61dafb&border_radius=10&cache_seconds=7200" />
-  </a>
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <a href="https://github.com/Sushant-Prasad/TODO" title="TODO App">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=TODO&theme=react&border_color=61dafb&border_radius=10&cache_seconds=7200" />
-  </a>
-</div>
-
-<br/><br/>
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sushant-prasad">
