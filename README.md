@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sushant-Prasad.Sushant-Prasad">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sushant-Prasad.Sushant-Prasad" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+SUSHANT+PRASAD....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+SUSHANT+PRASAD....;Nice+to+meet+you!&center=true&size=30" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -29,7 +29,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 ### 🌐 Web & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,51 +49,54 @@
 
 ---
 
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Prasad&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-Prasad&layout=compact&theme=tokyonight&cache_seconds=7200" alt="Top languages" />
 </p>
 
 ---
+
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sushant-Prasad/PrepMate-MERN" title="PrepMate">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=PrepMate-MERN&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
+<div align="center">
+  <a href="https://github.com/Sushant-Prasad/PrepMate-MERN" title="PrepMate">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=PrepMate-MERN&theme=react&border_color=61dafb&border_radius=10&cache_seconds=7200" />
   </a>
-  <a align="right" href="https://github.com/Sushant-Prasad/DATA-STRUCTURE-AND-ALGORITHM" title="Data Structures">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=DATA-STRUCTURE-AND-ALGORITHM&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sushant-Prasad/FlexiSpot" title="FlexiSpot">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=FlexiSpot&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
-  </a>
-  <a align="right" href="https://github.com/Sushant-Prasad/DonateDelight" title="DonateDelight">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=DonateDelight&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
+  <a href="https://github.com/Sushant-Prasad/DATA-STRUCTURE-AND-ALGORITHM" title="Data Structures">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=DATA-STRUCTURE-AND-ALGORITHM&theme=react&border_color=61dafb&border_radius=10&cache_seconds=7200" />
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sushant-Prasad/TODO" title="TODO App">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=TODO&theme=react&border_color=61dafb&border_radius=10&cache_seconds=60">
+<div align="center">
+  <a href="https://github.com/Sushant-Prasad/FlexiSpot" title="FlexiSpot">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=FlexiSpot&theme=react&border_color=61dafb&border_radius=10&cache_seconds=7200" />
+  </a>
+  <a href="https://github.com/Sushant-Prasad/DonateDelight" title="DonateDelight">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=DonateDelight&theme=react&border_color=61dafb&border_radius=10&cache_seconds=7200" />
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
+
+<div align="center">
+  <a href="https://github.com/Sushant-Prasad/TODO" title="TODO App">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sushant-Prasad&repo=TODO&theme=react&border_color=61dafb&border_radius=10&cache_seconds=7200" />
+  </a>
+</div>
+
+<br/><br/>
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/sushant-prasad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sushantprasad77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- 
+  <a href="https://www.linkedin.com/in/sushant-prasad">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sushantprasad77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
